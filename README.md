@@ -130,7 +130,7 @@ jupyter notebook
 ## 📷 Dashboard Previews 
 
 ### excel dashboard
-(excel.png)
+(excel.png.png)
 ### 🔹 Summary View  
 ![Summary](summary.png)  
 
