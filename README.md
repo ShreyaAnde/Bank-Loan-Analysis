@@ -127,7 +127,10 @@ jupyter notebook
 
 ---
 
-## 📷 Dashboard Previews  
+## 📷 Dashboard Previews 
+
+### excel dashboard
+(excel.png)
 ### 🔹 Summary View  
 ![Summary](summary.png)  
 
